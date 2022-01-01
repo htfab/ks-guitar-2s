@@ -4,7 +4,7 @@
 `default_nettype none
 
 `define MAXDELAY 10'd600
-`define STRINGS 4'd1
+`define STRINGS 4'd2
 
 `default_nettype wire
 
